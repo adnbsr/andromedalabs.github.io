@@ -1,8 +1,6 @@
 ---
-
-layout:post
-
-title:Fibonacci in Python
+layout: post
+title: Fibonacci in Python
 ---
 testing github pages via hyde
 
