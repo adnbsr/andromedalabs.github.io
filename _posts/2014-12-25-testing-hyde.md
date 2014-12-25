@@ -3,4 +3,4 @@ layout: post
 title: Testing Hyde
 ---
 
-Thanks
+Andromeda Labs lives on Github Pages
